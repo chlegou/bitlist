@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bitlist.plus
+Token: 3d3ad49bb9eb6e9dc9f2965e7f15cf1ab0fd4cda5ee421b2a67ce58ed99cdaae
