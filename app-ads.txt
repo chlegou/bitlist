@@ -52,12 +52,24 @@ pubmatic.com, 164282, RESELLER, 5d62403b186f2ace
 ## YODO1.com :: https://bpo1.ads-txt.site/app-ads.txt
 ## MCM specific
 yodo1.com, 624091a8618701dac4c7e655, DIRECT
-## AdsTxtSite app-ads.txt - Updated at: 2024-11-11
+## AdsTxtSite app-ads.txt - Updated at: 2024-12-05
+tradplusad.com,038e5ce5c8ec9daa,DIRECT
+tradplusad.com,b30fe472840cd9f2,DIRECT
+tradplusad.com,74f787a44dd0ecf2,DIRECT
+tradplusad.com,8b37db213770a59f,DIRECT
+tradplusad.com,e5b2018d5bfb58c0,DIRECT
+tradplusad.com,bad4e03c5e427436,DIRECT
+
+nexverse.ai, 24145, RESELLER
+Xapads.com, 205485, RESELLER
+adbite.com,517,RESELLER
+onetag.com, 8cbe65196700300, RESELLER
+bidscube.com, 51111120, RESELLER, 6ecc87a1e0269723
+voisetech.com, 1068, RESELLER
 openx.com, 561436793, RESELLER, 6a698e2ec38604c6
 spinx.biz,1373698863,RESELLER
 improvedigital.com,2371,RESELLER
 zmaticoo.com,5135063,RESELLER
-
 smartadserver.com,4610, RESELLER, 060d053dcf45cbf3
 Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 Pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
